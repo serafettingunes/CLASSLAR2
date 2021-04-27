@@ -1,6 +1,12 @@
 package claslar2;
 
 public class Product {
+	
+	public  Product(int id,String name,String description,double price,int stockAmount) {
+		
+	}
+	
+	
 private int _id;
 private String _name;
 private String _description;
